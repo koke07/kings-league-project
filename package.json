@@ -1,0 +1,22 @@
+{
+  "name": "kingsleague",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/koke07/kings-league-project.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "jorge montoya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koke07/kings-league-project/issues"
+  },
+  "homepage": "https://github.com/koke07/kings-league-project#readme"
+}
